@@ -96,8 +96,8 @@ impl <'a> Display for URI<'a> {
 
 #[derive(Debug,PartialEq)]
 pub struct User<'a> {
-    name: &'a str,
-    password: Option<&'a str>
+    pub name: &'a str,
+    pub password: Option<&'a str>
 }
 
 /// Possible parsing errors

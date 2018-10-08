@@ -1,7 +1,7 @@
 [package]
 name = "uri_parser"
 description = "Simple URI parser with zero copy and easy access to all URI parts"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Ivan Zderadicka <ivan@zderadicka.eu>"]
 license = "MIT/Apache-2.0"
 homepage = "https://github.com/izderadicka/uri_parser"
